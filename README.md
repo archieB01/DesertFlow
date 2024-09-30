@@ -48,3 +48,6 @@ Some datasets had missing or inconsistent data due to irregular measurement time
 Model Accuracy: 
 Other machine learning models did not provide reasonable predictions, so we focused on linear regression.
 Timeline Inconsistencies: The dataset timelines were inconsistent, requiring preprocessing to ensure they aligned properly for analysis.
+
+# Website
+https://main.d1jgg421a5wf8j.amplifyapp.com/ 
